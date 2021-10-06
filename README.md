@@ -30,3 +30,8 @@ The purpose of the project is to evaluate the business idea of bike-sharing prog
 - In the highest point, male users (108,087) have 3 times more rides than female users(34,151).
 
 ## Summary
+Overall, according to the information above, we could expect that the man who lives in the intensive city and needs to deal with the rush hour traffic may have high demand of biking-sharing. However, determining a business program can't just rely on one-month data. Here are some suggestions of this analysis: 
+
+1. Comparing the data from different months and years.
+2. Adding the weather data to analyze the relation of weather and rides.
+3. Knowing the distribution of bike road in city map, it is possible that people unwilling to ride because they may feel danger if there is no bike road in city.
